@@ -1,0 +1,25 @@
+.pdf-viewer {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pdf-viewer h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .pdf-viewer canvas {
+    width: 100% !important;
+    height: auto !important;
+  }
+  
+  .pdf-viewer p {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
